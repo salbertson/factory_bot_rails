@@ -16,5 +16,5 @@ Gem::Specification.new do |s|
   s.license       = "MIT"
 
   s.add_runtime_dependency('railties', '>= 3.0.0')
-  s.add_runtime_dependency('factory_bot', '~> 4.10.0')
+  s.add_runtime_dependency('factory_bot')
 end
